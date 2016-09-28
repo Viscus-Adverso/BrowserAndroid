@@ -20,7 +20,8 @@
         <WebView
             android:layout_width="match_parent"
             android:layout_height="257dp"
-            android:layout_weight="1.00" />
+            android:layout_weight="1.00"
+            android:id="@+id/web" />
 
         <LinearLayout
             android:orientation="horizontal"
